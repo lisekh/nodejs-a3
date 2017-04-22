@@ -9,11 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lisekh/nodejs-a2.git"
+    "url": "git+https://github.com/lisekh/nodejs-a3.git"
   },
   "keywords": [
     "nodejs",
-    "ejs"
+    "ejs",
+    "jade"
   ],
   "author": "Lise Haugen",
   "license": "ISC",
